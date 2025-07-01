@@ -5,11 +5,11 @@ export const Footer = () => {
         <footer className={styles.footer}>
             <div className={styles.container}>
                 <div className={styles.content}>
-                    <p className={styles.dir}>2025, Meus Desejos - Todos os direitos reservados</p>
+                    <p className={styles.dir}>2025, Meus Planos - Todos irão concretizar</p>
                     <div className={styles.links}>
                         <a 
                         className={styles.githubLink}
-                        href="https://github.com/marcoahansen"
+                        href="https://github.com/ghabriel33"
                         rel="noopener noreferrer"
                         target="_blank"
                         >
@@ -20,7 +20,7 @@ export const Footer = () => {
                                 clipRule="evenodd"
                                 />
                             </svg>
-                            marcoahansen
+                            ghabriel33
                         </a>
                     </div>
                 </div>
